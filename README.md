@@ -1,16 +1,17 @@
-## Hi there 👋
+🇧🇷 Versão em Português (BR)
+💡 Desenvolvedor Full Stack
+Sou movido a café e código ☕💻 — curto criar soluções com C#, .NET, Node.js, React, PostgreSQL e tudo que dá pra automatizar. Gosto de arquitetura limpa, microserviços e bots que fazem o trabalho pesado.
 
-<!--
-**nilesterci/nilesterci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sempre aprendendo, testando e colocando pra rodar.
+Compartilho aqui meus projetos, ideias e experimentos.
 
-Here are some ideas to get you started:
+📬 Bora trocar uma ideia? Me chama no LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇺🇸 English Version
+💡 Full Stack Developer
+Fueled by coffee and code ☕💻 — I love building stuff with C#, .NET, Node.js, React, PostgreSQL, and automating anything I can. Into clean architecture, microservices, and bots that do the heavy lifting.
+
+🚀 Always learning, building, and shipping.
+Here you'll find my side projects, ideas, and experiments.
+
+📬 Let's connect! Reach me on LinkedIn
